@@ -1,42 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Algerian Forest Fire Prediction Project</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            padding: 0;
-            background-color: #f9f9f9;
-        }
-        h1, h2 {
-            color: #2c3e50;
-        }
-        h1 {
-            text-align: center;
-        }
-        pre {
-            background: #eef;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-        a {
-            color: #3498db;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        ul {
-            margin-left: 20px;
-        }
-    </style>
-</head>
-<body>
+
     <h1>Algerian Forest Fire Prediction Project</h1>
 
     <h2>Overview</h2>
@@ -137,5 +99,3 @@ source env/bin/activate  # On Windows: env\Scripts\activate</code></pre>
 
     <h2>Contact</h2>
     <p>For any questions or suggestions, feel free to contact me at <a href="mailto:karansingh13531@gmail.com">karansingh13531@gmail.com</a>.</p>
-</body>
-</html>
